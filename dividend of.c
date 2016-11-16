@@ -16,7 +16,7 @@ printf ("enter the second number");
 scanf("%f", &b);
 divide = a / b ;
 
-printf ("the devidend of two no. is %f",divide);
+printf ("the dividend of two no. is %f",divide);
 getch () ;
 return 0;
 }
