@@ -3,7 +3,7 @@ name: change G.l Joshi
 subjects: Programming fundamental
 lab sheet no: 2
 Roll no: 5
-Program: WAP to print sum of two numbers, asked by user
+Program: WAP to print sum of digits, asked by user
 date: 23th nov,2016
 */
 #include<stdio.h>
