@@ -1,10 +1,10 @@
 /*
-Student Name:Salav Thapa
-Subject:Programing Fundamental
-Roll No:
-Program:To enter any number and calculate its square
-Lab Sheet No:07
-Date:2016-11-28
+NAME: CHANGE JOSHI
+SUBJECT: PROGRAMMING FUNDAMENTAL
+ROLL NO: 5
+lAB SHEET NO : 7
+PROGRAM: WRITING A C PROGRAM TO PRINT SQURE ROOT.
+Date :28 NOV 2016
 */
 
 #include<stdio.h>
